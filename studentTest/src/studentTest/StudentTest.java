@@ -6,6 +6,7 @@ public class StudentTest {
 		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
 		System.out.print("Hello Word !!!");
 		System.out.println("wo shi juelaocc")
+	        System.out.println("wo shi  juelaobb")
 
 	}
 
