@@ -3,8 +3,9 @@ package studentTest;
 public class StudentTest {
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
+		// TODO 脳脭露炉脡煤鲁脡碌脛路陆路篓麓忙赂霉
 		System.out.print("Hello Word !!!");
+		System.out.println("wo shi juelaocc")
 
 	}
 
